@@ -6,8 +6,6 @@ echo "\n |    __)_\  \/  /\____ \|  |  /  _ \|  |/_    _/		";
 echo "\n |        \>    < |  |_> >  |_(  <_> )  |  |  |__		";
 echo "\n/_______  /__/\_ \|   __/|____/\____/|__|  \____/		";
 echo "\n        \/      \/|__|                             	";    
-echo "\nCoded by jasman@ihsana.com\n"; 
-echo "\nThank to Anaski Crewz\n";  
 echo "\nFor education purphose only, If you do not agree, ";
 echo "\nplease remove.\n";
 function logs($reason,$ext = "txt"){
