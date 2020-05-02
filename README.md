@@ -1,19 +1,19 @@
-Hacking Tools resource from [ExploreCrew Forum](http://forum.explorecrew.org)
+Hacking Tools resource from [Exploiter](https://tutorialhambaallah.blogspot.com/)
 
-* Admin Scanner : [Forum thread](http://forum.explorecrew.org/index.php?topic=1345.0)
-* Cpanel Bruteforce : [Forum thread](http://forum.explorecrew.org/index.php?topic=1015.0)
-* HTTP Attack IIS : [Forum thread](http://forum.explorecrew.org/index.php?topic=1083.0)
-* HSphere Jumping : [Forum thread](http://forum.explorecrew.org/index.php?topic=234.0)
-* Joomla Get Modules Info : [Forum thread](http://forum.explorecrew.org/index.php?topic=1045.0)
-* MD5 Cracker : [Forum thread](http://forum.explorecrew.org/index.php?topic=593.0)
-* MySQL Jumping : [Forum thread](http://forum.explorecrew.org/index.php?topic=976.0)
-* Neutralised - SQL Dumper : [Forum thread](http://forum.explorecrew.org/index.php?topic=1362.0)
-* PHP-CLI Mini Tools : [Forum thread](http://forum.explorecrew.org/index.php?topic=1507.0)
-* Paypal Checker : [Forum thread](http://forum.explorecrew.org/index.php?topic=160.0)
-* Port Scanner : [Forum thread](http://forum.explorecrew.org/index.php?topic=1287.0)
-* ZeroBoard Exploit : [Forum thread](http://forum.explorecrew.org/index.php?topic=1233.0)
+* Admin Scanner : [Forum thread](https://tutorialhambaallah.blogspot.com/)
+* Cpanel Bruteforce : [Forum thread](https://tutorialhambaallah.blogspot.com/)
+* HTTP Attack IIS : [Forum thread](https://tutorialhambaallah.blogspot.com/)
+* HSphere Jumping : [Forum thread](https://tutorialhambaallah.blogspot.com/)
+* Joomla Get Modules Info : [Forum thread](https://tutorialhambaallah.blogspot.com/)
+* MD5 Cracker : [Forum thread](https://tutorialhambaallah.blogspot.com/)
+* MySQL Jumping : [Forum thread](https://tutorialhambaallah.blogspot.com/)
+* Neutralised - SQL Dumper : [Forum thread](https://tutorialhambaallah.blogspot.com/)
+* PHP-CLI Mini Tools : [Forum thread](https://tutorialhambaallah.blogspot.com/)
+* Paypal Checker : [Forum thread](https://tutorialhambaallah.blogspot.com/)
+* Port Scanner : [Forum thread](https://tutorialhambaallah.blogspot.com/)
+* ZeroBoard Exploit : [Forum thread](https://tutorialhambaallah.blogspot.com/)
 
 
-Copyright ExploreCrew 2013
+Copyright Exploiter 2020
 
-Web : [Explorecrew.org](http://forum.explorecrew.org)
+Web : [hacking tools](https://tutorialhambaallah.blogspot.com/)
