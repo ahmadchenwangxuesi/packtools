@@ -1,8 +1,7 @@
 <?php
 
 /**
- * @author Jasman
- * @copyright ExploreCrew.Org 2012
+ * @author Pace usa
  */
 
 
