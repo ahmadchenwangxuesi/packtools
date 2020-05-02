@@ -3,9 +3,6 @@ if(defined('STDIN') )
 {
 //-------------------
 // Mini Tool
-// Coded by VbA 
-// ExploreCrew.org | IBT RIAU 
-// Thanks to : BoB (udah mau cari2 data dari exploit-db) :P 
 //-------------------
 error_reporting(0);
 set_time_limit(0);
@@ -535,9 +532,9 @@ echo "
 	   |    __)_\  \/  /\____ \|  |  /  _ \_  __ \_/ __ \  /    \  \/\_  __ \_/ __ \ \/ \/ /
 	   |        \>    < |  |_> >  |_(  <_> )  | \/\  ___/  \     \____|  | \/\  ___/\     / 
 	  /_______  /__/\_ \|   __/|____/\____/|__|    \_____>  \______  /|__|    \___  >\/\_/  
-	          \/      \/|__|    -==[ w3 4r3 th3 4nk3r t34m ]==-    \/             \/    				   
-   \033[01;32m Mini  Tool - Full Coded by VbA  \n
-   Special Thanks to : ExploreCrew.org | IBT Riau | Bob Halliwel(Thx buat listing exploit-idnya) | AVP \n 
+	          \/      \/|__|    -==[ w3 4r3 th3 THCA ]==-    \/             \/    				   
+   \033[01;32m Mini  Tool - Full Coded by paceusa  \n
+   Special Thanks to : ALLAH SWT | \n 
    \033[0m  \n\n";
 				 
 					echo "\033[01;33m ";
