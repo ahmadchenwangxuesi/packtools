@@ -1,10 +1,8 @@
 <?php
 
 /**
-* @author BlueBoyz
-* @copyright 2013 ExploreCrew.Org
-* @fixed Jei.Xcrew, and you..
-* @filesource http://forum.explorecrew.org/index.php?action=forum
+* @author paceusa
+* @copyright 2013 mrlinkerrorsystem
 *
 * We hate Ripper!! Please don't remove or change original author name of posted article/code
 * fixed it add your nick
@@ -125,7 +123,7 @@ echo '</head>';
 echo '<body>';
 echo '<article>';
 echo '<h3>..:: SHELL IMAGE GENERATOR ::..</h3>';
-echo '<h5>Free Tool by <a href="http://forum.explorecrew.org">Viva ExploreCrew</a></h5>';
+echo '<h5>Free Tool by <a href="/">Pace USA</a></h5>';
 echo '<form method="post" action="" enctype="multipart/form-data">';
 echo '<fieldset>';
 echo '<legend>SHELL</legend>';
@@ -146,7 +144,7 @@ echo '<legend>YOUR SHELL IMAGE</legend>';
 echo '<div></div>';
 echo '<div><a href="?preview='.$download.'&download">Download</a></div>';
 echo '</fieldset>';
-echo '<small>Free Tool by <a href="http://forum.explorecrew.org">Viva ExploreCrew, Coded by BlueBoyz, Fixed Jei.Free.</a><small>';
+echo '<small>Free Tool by <a href="/">PACE USA</a><small>';
 echo '</article>';
 
 echo '</body>';
