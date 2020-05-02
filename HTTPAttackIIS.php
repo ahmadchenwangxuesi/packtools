@@ -1,8 +1,6 @@
 <?php
 
 /**
- * @author      ReGeL
- * @copyright	Copyright (C) 2012 Www.ExploreCrew.Org.
  * @license	    GNU General Public License version 2 or later; see LICENSE.txt 
 **/
 
@@ -96,14 +94,14 @@ if(isset($_POST['check']))
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
-	<meta name="author" content="Viva ExploreCrew" />
+	<meta name="author" content="Viva Pace USa" />
 	<title>HTTP Attack IIS (Expoit PUT Method)</title>
     <!-- 
     Copyright (C) 2012 ExploreCrew.Org.
     All content education purphose only. 
     Any consequences in views of the use of scripts, techniques, codes, 
     tutorials, and everything imaginable are purely the 
-    responsibility of the user, NOT ExploreCrew.Org
+    responsibility of the user, NOT 
     -->
 </head>
 <body>
