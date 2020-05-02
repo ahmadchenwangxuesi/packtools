@@ -36,7 +36,7 @@ $dir .= "</table>";
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
 	<meta name="author" content="RaideRz" />
-    <title><?php echo $title ?> - ExploreCrew UnderGround</title>
+    <title><?php echo $title ?> - PaceUSA UnderGround</title>
         <style type="text/css">
             *{ color: #444;}
         	body { background: #111;  }
@@ -46,7 +46,7 @@ $dir .= "</table>";
 </head>
 <body>
 <div id="xcrew">
-<p style="font-size: 24px; text-align: center; color: red;"><strong>..:: <?php echo $title ?> - ExploreCrew UnderGround Coder ::..</strong></p><br/>
+<p style="font-size: 24px; text-align: center; color: red;"><strong>..:: <?php echo $title ?> - PaceUSA UnderGround Coder ::..</strong></p><br/>
 <div id="output">
 <?php echo $dir ?>
 </div>
