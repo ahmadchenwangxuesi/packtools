@@ -2,10 +2,6 @@
 
 /*
  * Admin Scanner 
- * Author c1ck0 
- * Email: riky.hasibuan@gmail.com 
- * Thanks to : ArRay,K4pT3N,Jasman,N4ck0,Vba and all explorecrews
- * www.ExploreCrew.org | ExploreCrew UnderGround Coder Team!
 */
 
 echo '
